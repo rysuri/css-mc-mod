@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "unlocked": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "chicken_sword:chicken_sword_crafting_recipe"
+      }
+    }
+  },
+  "rewards": {
+    "function": "chicken_sword:give"
+  }
+}
